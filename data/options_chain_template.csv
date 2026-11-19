@@ -1,0 +1,2 @@
+timestamp,underlying,expiry,strike,option_type,ltp,bid,ask,volume,oi
+2026-12-01 10:00:00,NIFTY,2026-12-31,25000,CE,100,99,101,12000,50000
